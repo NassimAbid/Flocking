@@ -1,0 +1,25 @@
+﻿  GPGame_Template_VS2017_x86.cpp
+  Physics.cpp
+  particles.cpp
+c:\users\amina\desktop\flocking\cgp-labs\src\gpgametemplate-master\gpgame_template_vs2017_x86\gpgame_template_vs2017_x86\particles.cpp(79): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\amina\desktop\flocking\cgp-labs\src\gpgametemplate-master\gpgame_template_vs2017_x86\gpgame_template_vs2017_x86\particles.cpp(82): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\amina\desktop\flocking\cgp-labs\src\gpgametemplate-master\gpgame_template_vs2017_x86\gpgame_template_vs2017_x86\particles.cpp(89): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\amina\desktop\flocking\cgp-labs\src\gpgametemplate-master\gpgame_template_vs2017_x86\gpgame_template_vs2017_x86\particles.cpp(92): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  GPGame_Template_VS2017_x86.vcxproj -> C:\Users\Amina\Desktop\Flocking\CGP-Labs\src\GPGameTemplate-master\GPGame_Template_VS2017_x86\Debug\GPGame_Template_VS2017_x86.exe
